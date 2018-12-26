@@ -2,7 +2,8 @@
 A basic swear filter for Unreal Tournament. 
 
 ## Installation
-Add to your server's UT.ini:
+1. Place .u file in server's UT/System folder.
+2. Add to your server's UT.ini:  
 `ServerActors=BTNetSwearFilter.SwearFilter`
 
 ## To Do
