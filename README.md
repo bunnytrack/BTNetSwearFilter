@@ -8,4 +8,6 @@ A basic swear filter for Unreal Tournament.
 
 ## To Do
 * Make case-insensitive
+* Add more swear words
+* Create .ini by default via `SaveConfig()`
 * Optionally allow swear words as part of other legitimate words (e.g. "Scunthorpe")
