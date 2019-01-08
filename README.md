@@ -7,6 +7,7 @@ A basic swear filter for Unreal Tournament.
 `ServerActors=BTNetSwearFilter.SwearFilter`
 
 ## To Do
+* BUG: text is being displayed twice (probably needs `Sender == Receiver` stuff)
 * Make case-insensitive
 * Add more swear words
 * Create .ini by default via `SaveConfig()`
